@@ -1,6 +1,6 @@
 # ADR-002: Cost Not Selected as a Driving Characteristic
 
-## Context:
+## Context
 
 The CMS platform is intended for large-scale enterprise clients such as national banks, telecom providers, insurance firms, and multinational organisations. These companies typically operate with millions of customers, strict regulatory requirements, and high expectations of reliability and performance.
 
