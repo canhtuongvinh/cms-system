@@ -1,4 +1,4 @@
-# ADR-004: Use Independent Portals Per Organisation
+# ADR-004: Use Independent Domains Per Tenant
 
 ## Context
 
