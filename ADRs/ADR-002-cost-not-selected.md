@@ -8,6 +8,9 @@ In such environments, **cost efficiency is not the primary decision driver**. In
 
 Cost remains relevant from a business perspective, but **it is not a core architectural driver** for decision-making in this project.
 
+Refer to:
+[Analysis of the architecture characteristics](https://github.com/canhtuongvinh/cms-system/blob/83cf945c54b5b0655fd3c5fc5a93c0d3dc56463c/SolutionBackground/ArchitecturePatterns.md)
+
 ## Decision
 
 Cost will *not* be selected as a driving characteristic in the architectural design of the CMS. The architecture will prioritise **quality attributes** such as scalability, performance, fault tolerance, extensibility, and maintainability, even when this requires higher implementation or infrastructure cost.
