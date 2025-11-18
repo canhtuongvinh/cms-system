@@ -14,6 +14,8 @@ The top three are shown in **bold** and with a ^.
 - Extensibility
 - Configurability
 - Interoperability
+![Alt text](
+/assets/images/architecture-characteristics.png)
 
 ## Architecture Capabilities Comparison
 
