@@ -19,7 +19,7 @@ The top three are shown in **bold** and with a ^.
 The characteristics are highlighted below in the comparison matrix, with a particular focus on the three driving characteristics:  
 **availability**, **scalability**, and **security**, all of which are critical for a multi-tenant CMS expected to support global-scale enterprises and millions of users.
 
-[![architectural-styles](../assets/images/architectural-styles-marked.png)](https://raw.githubusercontent.com/canhtuongvinh/cms-system/refs/heads/main/assets/architectural-styles-marked.png)
+https://raw.githubusercontent.com/canhtuongvinh/cms-system/refs/heads/main/assets/architectural-styles-marked.png
 
 [comparison matrix from DeveloperToArchitect.com]
 
