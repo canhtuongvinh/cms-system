@@ -23,7 +23,7 @@ The characteristics are highlighted below in the comparison matrix, with a parti
 ![Alt text](
 /assets/architectural-styles-marked.png "Optional Title")
 
-[comparison matrix from DeveloperToArchitect.com]
+Source: DeveloperToArchitect.com
 
 ## Architecture Capabilities Analysis
 
