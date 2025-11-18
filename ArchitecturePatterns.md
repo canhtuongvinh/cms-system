@@ -1,8 +1,3 @@
-[> Home](../README.md)    [> Solution Background](README.md)
-[< Prev](ArchitecturePrinciples.md)  |  [Next >](Conceptual.md)
-
----
-
 # Overall Architecture Style Analysis
 
 ## Identified Key Architectural Characteristics
@@ -96,7 +91,3 @@ While Microservices introduce additional operational complexity, this is an acce
 
 ADR: **[003 We-will-use-a-microservices-architecture](../4.ADRs/003-We-will-use-a-microservices-architecture.md)**
 
----
-
-[> Home](../README.md)    [> Solution Background](README.md)
-[< Prev](ArchitecturePrinciples.md)  |  [Next >](Conceptual.md)
