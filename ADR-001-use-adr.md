@@ -7,7 +7,7 @@ Why architects made decisions.
 Use Architecture Decision Records, described by Michael Nygard. https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 
 ## Consequences:
-We will use Architectural Decision Records (ADRs) to document significant architectural decisions made during the project. This approach will help us track the rationale behind decisions, the context in which they were made, and the implications they have on the project.
+Use Architectural Decision Records (ADRs) to document significant architectural decisions made during the project. This approach will help track the rationale behind decisions, the context in which they were made, and the implications they have on the project.
 
 ### Pro:
 - Improved Communication: ADRs will serve as a clear communication tool for current and future team members to understand architectural decisions and their rationales.
