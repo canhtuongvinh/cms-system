@@ -1,19 +1,19 @@
 # ADR-001: Using ADR
 
-## Context:
+## Context
 Why architects made decisions.
 
-## Decision:
+## Decision
 Use Architecture Decision Records, described by Michael Nygard. https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 
-## Consequences:
+## Consequences
 Architectural Decision Records (ADRs) will be used to document significant architectural decisions made during the project. This approach will track the rationale behind decisions, the context in which they were made, and the implications they have on the project.
 
-### Pro:
+### Pro
 - Improved Communication: ADRs will serve as a clear communication tool for current and future understanding of architectural decisions and their rationales.
 - Better Decision Making: The process of writing ADRs encourages thorough consideration of options, helping to ensure that decisions are well thought out.
 - Historical Context: ADRs provide a historical record of decisions, allowing us to revisit and understand past decisions.
 
-### Cons:
+### Cons
 - Overhead: Writing and maintaining ADRs requires additional effort.
 - Learning Curve: Significant learning curve associated with adopting the ADR process and format.
