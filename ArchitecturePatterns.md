@@ -2,7 +2,7 @@
 
 ## Identified Key Architectural Characteristics
 
-The [key architectural characteristics](../1.ProblemBackground/ArchitectureAnalysis.md) identified for the Complaint Management System (CMS) guide the selection of the overall architecture style.  
+The key architectural characteristics identified for the Complaint Management System (CMS) guide the selection of the overall architecture style.  
 The top three are shown in **bold** and with a ^.
 
 - **Availability ^**
