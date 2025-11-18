@@ -1,4 +1,4 @@
-# ADR-005: Adopt a NoSQL Store for Procedures
+# ADR-005: Adopt a NoSQL Database for Procedures
 
 ## Context
 
