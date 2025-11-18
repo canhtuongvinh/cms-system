@@ -10,7 +10,7 @@ Confirmed
 
 ## Decision
 
-Use an Microservices architecture for the the system.
+Use an Microservices architecture for the the system. The Microservices model was justified through analysis of scalability, integration, and maintainability requirements. It was determined to be the option that meets the system’s long-term goals while accommodating future growth of CMS company.
 
 ## Consequences
 
