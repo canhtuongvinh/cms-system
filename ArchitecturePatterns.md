@@ -21,6 +21,8 @@ The characteristics are highlighted below in the comparison matrix, with a parti
 
 https://raw.githubusercontent.com/canhtuongvinh/cms-system/refs/heads/main/assets/architectural-styles-marked.png
 
+/assets/architectural-styles-marked.png
+
 [comparison matrix from DeveloperToArchitect.com]
 
 ## Architecture Capabilities Analysis
