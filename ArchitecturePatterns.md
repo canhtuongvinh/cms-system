@@ -1,13 +1,8 @@
-[> Home](../README.md)    [> Solution Background](README.md)
-[< Prev](ArchitecturePrinciples.md)  |  [Next >](Conceptual.md)
-
----
-
 # Overall Architecture Style Analysis
 
 ## Identified Key Architectural Characteristics
 
-The [key architectural characteristics](../1.ProblemBackground/ArchitectureAnalysis.md) that were identified help us to select and overall architecture style. The top three are shown in bold and with a ^.
+The top three are shown in bold and with a ^.
 
 - **Interoperability ^** 
 - Data Integrity
