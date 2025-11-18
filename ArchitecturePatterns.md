@@ -75,19 +75,7 @@ Below is the comparative analysis for each, following the same structure and lev
 
 ## Conclusion
 
-All three architecture styles score well in specific areas, but their trade-offs differ significantly.
-
-- **SOA** excels at integration and governance but scores poorly in scalability, availability, and performance, all top drivers for the CMS.
-- **Event-Driven** excels at asynchronous messaging but does *not* meet domain partitioning, configurability, or workflow requirements for the core business model.
-- **Microservices** aligns most closely with the CMS’s highest-priority characteristics:
-
-### ✔ Highest scalability  
-### ✔ Highest availability  
-### ✔ Strong isolation for security and tenant separation  
-### ✔ Supports independent evolvability  
-### ✔ Ideal for global deployment and enterprise SLAs  
-
-While Microservices introduce additional operational complexity, this is an acceptable and manageable trade-off for the CMS domain and its target enterprise market.
+All three architecture options have trade-offs, but the trade-offs for the Microservices architecture are lower overall.
 
 ---
 
