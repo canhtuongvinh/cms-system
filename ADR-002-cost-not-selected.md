@@ -24,7 +24,7 @@ By deprioritising cost as a driving characteristic, the architecture can be desi
 -   **Long-Term Maintainability**: Prioritising maintainable and modular solutions reduces technical debt and operational risk over time.
 -   **Supports Future Growth**: Trading upfront cost for scalable infrastructure prevents expensive redesigns when the system grows.
 
-### CONS
+### Cons
 
 -   **Higher Initial Cost**: The platform may require more expensive infrastructure (e.g., scalable databases, distributed services, clusters).
 -   **More Complex Architecture**: Architectures optimised for quality attributes can introduce increased system complexity.
