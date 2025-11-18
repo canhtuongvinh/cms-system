@@ -2,6 +2,7 @@
 
 ## Identified Key Architectural Characteristics
 
+Selecting the appropriate architectural characteristics is a key step that shapes the overall system design and its data flows. By evaluating these characteristics early, we can identify the most suitable software and hardware components needed to meet the system’s requirements. This approach ensures the solution functions correctly while remaining scalable, maintainable, and high-performing. From the analysis and requirements, the following three characteristics have been chosen as the most important:
 The key architectural characteristics identified for the Complaint Management System (CMS) guide the selection of the overall architecture style.  
 The top three are shown in **bold** and with a ^.
 
