@@ -21,7 +21,7 @@ The characteristics are highlighted below in the comparison matrix, with a parti
 **availability**, **scalability**, and **security**, all of which are critical for a multi-tenant CMS expected to support global-scale enterprises and millions of users.
 
 ![Alt text](
-/assets/images/sarchitectural-styles-marked.png)
+/assets/images/architectural-styles-marked.png)
 
 Source: DeveloperToArchitect.com
 
