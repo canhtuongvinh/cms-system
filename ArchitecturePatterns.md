@@ -24,6 +24,8 @@ https://raw.githubusercontent.com/canhtuongvinh/cms-system/refs/heads/main/asset
 /assets/architectural-styles-marked.png
 
 ![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/canhtuongvinh/cms-system/refs/heads/main/assets/architectural-styles-marked.png))
+![Alt text](
+/assets/architectural-styles-marked.png "Optional Title")
 
 [comparison matrix from DeveloperToArchitect.com]
 
