@@ -1,4 +1,4 @@
-# ADR 011: Optional Customer SSO Integration
+# ADR 011: Customer SSO Authentication Integration
 
 ## Context
 
