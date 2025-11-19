@@ -2,7 +2,8 @@
 
 ## Context
 
-The CMS stores sensitive complaint data and attachments. A single global encryption key creates risk. A breach could expose all tenants. Data protection laws require strong isolation.
+The CMS stores sensitive complaint data and attachments. A single global encryption key creates risk. 
+A breach could expose all tenants. Data protection laws require strong isolation.
 
 ## Decision
 
