@@ -1,8 +1,3 @@
-[> Home](../README.md)    [> Solution Background](README.md)
-[< Prev](SystemApproach.md)  |  [Next >](Security.md)
-
----
-
 # Datastore Solution Overview
 
 When considering the Farmacy Foods system there are three needs for storing data
@@ -112,12 +107,5 @@ The following diagram shows the initial design for the graph data store model.
 - [ ] Analyse data needs to decide upon storage of non-analytical data: document, relational, or graph.
 - [ ] Analyse analytical data needs to decide initial properties for the graph database nodes and relationships.
 - [ ] Create model for storing of analytical results once the structure is known.
-
----
-
-[> Home](../README.md)    [> Solution Background](README.md)
-[< Prev](SystemApproach.md)  |  [Next >](Security.md)
-
----
 
 [Above icons made by: relational: [ultimatearm](https://www.flaticon.com/authors/ultimatearm), diagram: [Becris](https://www.flaticon.com/authors/becris), binary-data: [Juicy-Fish](https://www.flaticon.com/authors/juicy-fish), nodes: [Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev) from [www.flaticon.com](https://www.flaticon.com/)]
