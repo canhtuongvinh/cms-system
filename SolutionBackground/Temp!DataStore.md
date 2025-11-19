@@ -48,8 +48,6 @@ Binary Large Object storage is optimised for unstructured binary files that are 
 
 Blob storage isolates heavy file content from core complaint data and reduces database load.
 
-[ADR: 009 We-will-use-a-blob-storage-for-static-content](../4.ADRs/009-We-will-use-a-blob-storage-for-static-content.md)
-
 <img src="../assets/images/binary-data.png" width="150" height="150"/>
 
 ### Graph
@@ -57,8 +55,6 @@ Blob storage isolates heavy file content from core complaint data and reduces da
 A graph database is optimal for highly connected data and can be very fast for performing analytics. It is also optimal for unstructured data, in the same way as a document store.
 
 Without further analysis it would seem that a graph database would be optimal for the data that requires analytics and for also storing analytics of that data.
-
-[ADR: 008 We-will-use-a-graph-store-for-analytics](../4.ADRs/008-We-will-use-a-graph-store-for-analytics.md)
 
 <img src="../assets/images/nodes.png" width="150" height="150"/>
 
