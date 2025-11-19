@@ -1,4 +1,4 @@
-# ADR 012: Implement Local Customer Identity
+# ADR-012: Implement Local Customer Identity
 
 ## Context
 
