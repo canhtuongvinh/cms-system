@@ -56,12 +56,6 @@ A graph store fits highly connected data with heavy pattern analysis. The CMS do
 
 <img src="../assets/images/nodes.png" width="150" height="150"/>
 
-## Graph Datastore Design Overview
-
-The following diagram shows the initial design for the graph data store model. 
-
-![GraphDatastoreModel](../assets/diagrams/GraphDatastoreModel.png)
-
 ## Summary
 Use relational storage for complaint data due to its structured nature and strong integrity needs. Use document storage for claim guidelines due to their flexible shape. Use blob storage for attachments due to their size and unstructured form. This mix fits the CMS performance, maintainability, and scalability goals.
 
