@@ -2,7 +2,7 @@
 
 ## Context
 
-In [ADR-011]([https://github.com/canhtuongvinh/cms-system/blob/698988cf0218f5173c004301b576b37ff1a76391/ADRs/ADR-010-staff-identity-provider-integration.md](https://github.com/canhtuongvinh/cms-system/blob/698988cf0218f5173c004301b576b37ff1a76391/ADRs/ADR-011-customer-SSO-integration.md)) implies the CMS will support SSO for customers to sign in. The issue arise where some consumers (person that would like to make a claim against the tenant) are not customers of the tenant. Therefore won't be able to use SSO.
+In [ADR-011](https://github.com/canhtuongvinh/cms-system/blob/0f8c86bbe43891a1a2e6095b23a4f7dc6d906d2e/ADRs/ADR-011-customer-SSO-integration.md)) implies the CMS will support SSO for customers to sign in. The issue arise where some consumers (person that would like to make a claim against the tenant) are not customers of the tenant. Therefore won't be able to use SSO.
 
 However, they could need to submit and track complaints.  
 
