@@ -3,7 +3,7 @@
 ## Context
 
 Some tenants might provide a customer identity provider.  
-These tenants might want customers to authenticate with their existing customer accounts instead of creating new CMS credentials. This keeps customer identity inside the tenant’s control and simplifies the login flow for known customers.  
+These tenants could let customers to authenticate with their existing customer accounts instead of creating new CMS credentials. This keeps customer identity inside the tenant’s control and simplifies the login flow for known customers.  
 Other tenants do not provide a customer IdP, so this authentication method could be left as an option.
 
 ## Decision
