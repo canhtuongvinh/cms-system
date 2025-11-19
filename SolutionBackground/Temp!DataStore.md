@@ -36,6 +36,8 @@ Reasons to choose document storage for guidelines:
 
 Document storage keeps guidelines flexible and simple to maintain.
 
+[ADR-005: Adopt a NoSQL Database for Procedures](https://github.com/canhtuongvinh/cms-system/blob/4732f4f7c060b0243ae2fb820e112e8113270a71/ADRs/ADR-005-adopt-nosql-database-for-procedures.md)
+
 <img src="../assets/images/diagram.png" width="150" height="150"/>
 
 ### Blob
