@@ -9,7 +9,7 @@ Other tenants do not provide a customer IdP, so this authentication method could
 ## Decision
 
 CMS supports customer SSO for tenants that configure a customer IdP.  
-When enabled, CMS directs the consumer to the tenant IdP, as a result the tenant IdP returns a signed token with tenant_id and customer_id.
+When enabled, CMS directs the consumer to the tenant IdP, as a result the tenant IdP returns a signed token with customer_id, and other data points as emails, telephone, etc such as uniqueness.
 CMS verifies the token, starts a session and assigns the consumer role.  
 *CMS does not store consumer passwords for tenants using this option.*
 
