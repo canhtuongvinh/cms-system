@@ -1,4 +1,4 @@
-# ADR 010: Staff Identity Provider Integration
+# ADR-010: Staff Identity Provider Integration
 
 ## Context
 
