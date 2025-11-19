@@ -17,3 +17,4 @@ Generate one encryption key per tenant. Store keys in the cloud Key Management S
 
 **Negative:**
 - More keys to manage.
+- Rotationally change keys might be mismatch, will require manual reconfiguration.
