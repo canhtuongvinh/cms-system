@@ -2,7 +2,7 @@
 
 ## Context
 
-The CMS stores structured complaint data for many tenants. A simple shared table with tenant_id increases index size and slows queries under scale. 
+The CMS stores structured complaint data for many tenants. A simple shared table with tenant_id (row context) increases index size and slows queries under scale. 
 A schema per tenant improves clarity and reduces index growth. This approach also supports straightforward data backup and redundancy planning.
 
 ## Decision
