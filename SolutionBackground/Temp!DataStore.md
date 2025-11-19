@@ -20,6 +20,8 @@ Reasons to choose relational storage for complaints:
 
 Relational storage supports the CMS goals for availability, scalability, and fault tolerance.
 
+[ADR-007: Select PostgreSQL for Core Complaint Data](https://github.com/canhtuongvinh/cms-system/blob/772b6df49aeceb8bfbdfd5a2eaa02589d10504af/ADRs/ADR-007-select-postgreSQL-for-core-complaint-data.md)
+
 <img src="../assets/images/relational.png" width="150" height="150"/>
 
 ### Document
