@@ -52,21 +52,13 @@ Blob storage isolates heavy file content from core complaint data and reduces da
 
 ### Graph
 
-A graph database is optimal for highly connected data and can be very fast for performing analytics. It is also optimal for unstructured data, in the same way as a document store.
-
-Without further analysis it would seem that a graph database would be optimal for the data that requires analytics and for also storing analytics of that data.
+A graph store fits highly connected data with heavy pattern analysis. The CMS does not have this type of workload for its core functions.
 
 <img src="../assets/images/nodes.png" width="150" height="150"/>
 
 ## Graph Datastore Design Overview
 
 The following diagram shows the initial design for the graph data store model. 
-
-### Design Notes
-
-- Even if an element, e.g. a large media file, will be stored in another way (e.g. blob storage) it can still be referenced and linked to in the graph data model, in order to link data in the graph store to elements outside of the graph store (e.g. a media node in the graph database would hold an identifier and/or link to a video file in blob storage).
-- Date a time could be stored either as properties on a node or relationship, or as relationships to date/time nodes, or a mixture of both. This can be altered to tune performance when required.
-- Properties of nodes and relationships are not shown on this high-level diagram.
 
 ![GraphDatastoreModel](../assets/diagrams/GraphDatastoreModel.png)
 
