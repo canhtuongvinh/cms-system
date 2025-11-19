@@ -81,5 +81,5 @@ All three architecture options have trade-offs, but the trade-offs for the Micro
 
 # Decision
 
-ADR: **[003 We-will-use-a-microservices-architecture](../4.ADRs/003-We-will-use-a-microservices-architecture.md)**
+ADR: **[ADR-003 Choose Microservices architecture design](https://github.com/canhtuongvinh/cms-system/blob/bb3fe1d95377a7bf9aa7eb8be907fdea16a79035/ADRs/ADR-003-select-mircroservices-architecture.md)**
 
