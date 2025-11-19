@@ -2,18 +2,16 @@
 
 ## Context
 
-Some tenants provide a customer identity provider.  
-These tenants want consumers to authenticate with their existing customer accounts instead of creating new CMS credentials.  
-This keeps customer identity inside the tenant’s control and simplifies the login flow for known customers.  
-Other tenants do not provide a customer IdP, so this method must remain optional.
+Some tenants might provide a customer identity provider.  
+These tenants might want customers to authenticate with their existing customer accounts instead of creating new CMS credentials. This keeps customer identity inside the tenant’s control and simplifies the login flow for known customers.  
+Other tenants do not provide a customer IdP, so this authentication method could be left as an option.
 
 ## Decision
 
 CMS supports customer SSO for tenants that configure a customer IdP.  
-When enabled, CMS redirects the consumer to the tenant IdP using OIDC or SAML.  
-The tenant IdP returns a signed token with tenant_id and customer_id.  
+When enabled, CMS directs the consumer to the tenant IdP, as a result the tenant IdP returns a signed token with tenant_id and customer_id.
 CMS verifies the token, starts a session and assigns the consumer role.  
-CMS does not store consumer passwords for tenants using this option.
+*CMS does not store consumer passwords for tenants using this option.*
 
 ## Consequences
 
@@ -25,4 +23,4 @@ CMS does not store consumer passwords for tenants using this option.
 
 **Negative**
 - Only works for tenants that provide a customer IdP.  
-- Requires setup during onboarding.
+- Requires extensive setup during onboarding.
