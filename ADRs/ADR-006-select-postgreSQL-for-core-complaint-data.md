@@ -1,4 +1,4 @@
-# ADR-007: Select PostgreSQL for Core Complaint Data
+# ADR-006: Select PostgreSQL for Core Complaint Data
 
 ## Context
 
