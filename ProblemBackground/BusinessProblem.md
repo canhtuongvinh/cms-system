@@ -35,4 +35,4 @@ Firms that fail to handle complaints at volume, meet regulatory timeframes, and 
 - Significant redress cost and operational strain  
 - Loss of customer trust and reputational damage
 
-Source: [Annual complaints data and insight 2024/25](https://www.financial-ombudsman.org.uk/data-insight/our-insight/annual-complaints-data-insight-2024-25?utm_source=chatgpt.com)
+Source: [The UK FCA - Annual complaints data and insight 2024/25](https://www.financial-ombudsman.org.uk/data-insight/our-insight/annual-complaints-data-insight-2024-25?utm_source=chatgpt.com)
