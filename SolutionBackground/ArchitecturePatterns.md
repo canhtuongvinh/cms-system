@@ -16,6 +16,7 @@ The top three are shown in **bold** and with a ^.
 - Interoperability
 ![Alt text](
 /assets/images/architecture-characteristics.png)
+Matrix Source: [DeveloperToArchitect.com](https://developertoarchitect.com/downloads/worksheets.html)
 
 ## Architecture Capabilities Comparison
 
