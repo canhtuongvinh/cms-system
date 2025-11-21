@@ -1,4 +1,4 @@
-# ADR-008: Use Schema-Based Multi Tenancy
+# ADR-007: Use Schema-Based Multi Tenancy
 
 ## Context
 
