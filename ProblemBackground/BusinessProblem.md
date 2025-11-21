@@ -41,3 +41,5 @@ Sources:
 [Financial Ombudsman Service receives over 305,000 complaints in 2024/25](https://www.financial-ombudsman.org.uk/news/financial-ombudsman-service-receives-305000-complaints-2024-25)
 
 [Aggregate complaints data: 2025 H1](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2025-h1)
+
+[Aggregate complaints data: 2025 H2](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2024-h2)
