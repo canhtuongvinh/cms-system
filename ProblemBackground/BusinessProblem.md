@@ -19,7 +19,7 @@ Since 2021, total complaints have remained between **1.7 and 2.0 million** every
 
 The regulatory bar for complaint handling has risen.
 
-- FCA DISP rules require firms to maintain effective and transparent procedures, handle complaints promptly and fairly, and investigate competently and impartially.  
+- FCA require firms to maintain effective and transparent procedures, handle complaints promptly and fairly, and investigate competently and impartially.  
 - The Consumer Duty, in force since July 2023, sets higher and clearer standards of consumer protection and requires firms to prioritise customer needs and deliver good outcomes.  
 - The FCA continues to highlight weak complaint handling and poor root cause analysis across sectors, linking these issues directly to Consumer Duty outcomes.
 
