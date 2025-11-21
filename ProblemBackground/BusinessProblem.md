@@ -43,3 +43,7 @@ Sources:
 [Aggregate complaints data: 2025 H1](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2025-h1)
 
 [Aggregate complaints data: 2025 H2](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2024-h2)
+
+[Consumer Duty sets higher standards for financial services customers](https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services)
+
+[Complaints and root cause analysis: good practice and areas for improvement](https://www.fca.org.uk/publications/good-and-poor-practice/complaints-and-root-cause-analysis-good-practice-and-areas-improvement)
