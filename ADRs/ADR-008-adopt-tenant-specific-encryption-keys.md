@@ -1,4 +1,4 @@
-# ADR-009: Adopt Tenant Specific Encryption Keys
+# ADR-008: Adopt Tenant Specific Encryption Keys
 
 ## Context
 
