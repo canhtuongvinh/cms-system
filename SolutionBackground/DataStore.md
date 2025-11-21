@@ -59,4 +59,4 @@ A graph store fits highly connected data with heavy pattern analysis. The CMS do
 ## Summary
 Use relational storage for complaint data due to its structured nature and strong integrity needs. Use document storage for claim guidelines due to their flexible shape. Use blob storage for attachments due to their size and unstructured form. This mix fits the CMS performance, maintainability, and scalability goals.
 
-[Above icons made by: relational: [ultimatearm](https://www.flaticon.com/authors/ultimatearm), diagram: [Becris](https://www.flaticon.com/authors/becris), binary-data: [Juicy-Fish](https://www.flaticon.com/authors/juicy-fish)
+Icons made by: relational: [ultimatearm](https://www.flaticon.com/authors/ultimatearm), diagram: [Becris](https://www.flaticon.com/authors/becris), binary-data: [Juicy-Fish](https://www.flaticon.com/authors/juicy-fish)
