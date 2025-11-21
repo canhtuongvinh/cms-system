@@ -1,4 +1,4 @@
-# ADR-013: Encourage Existing Customers To Use Tenant SSO
+# ADR-012: Encourage Existing Customers To Use Tenant SSO
 
 ## Context
 
