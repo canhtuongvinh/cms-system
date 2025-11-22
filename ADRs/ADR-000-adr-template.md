@@ -4,11 +4,11 @@
 Why is a decision needed?
 
 ## Decision:
-What is a decision?
+What is the decision?
 
 ## Consequences:
 ### Pros:
-- consequences
+- Consequences
 
 ### Cons:
-- consequences
+- Consequences
