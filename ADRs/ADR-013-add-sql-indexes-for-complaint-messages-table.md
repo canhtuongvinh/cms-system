@@ -1,4 +1,4 @@
-# ADR-015: Add SQL Indexes for Complaint Messages Table
+# ADR-013: Add SQL Indexes for Complaint Messages Table
 
 ## Context
 
