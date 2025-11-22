@@ -46,7 +46,7 @@ Document storage keeps guidelines flexible and simple to maintain.
 
 Binary Large Object storage is optimised for unstructured binary files that are large in size, e.g. videos and images. Consumers upload photos, PDFs, audio files, or scanned documents when filing complaints. Staff upload supporting evidence. These files must be stored securely and delivered efficiently.
 
-Blob storage isolates heavy file content from core complaint data and reduces database load.
+Blob storage isolates heavy file content from core complaint data and reduces database load. We will choose Blob to store attachments in the system.
 
 <img src="../assets/images/binary-data.png" width="150" height="150"/>
 
