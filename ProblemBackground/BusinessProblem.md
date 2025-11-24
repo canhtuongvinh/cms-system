@@ -11,9 +11,9 @@ At firm level, FCA aggregate data shows a large and steady flow of complaints.
 
 - In **2024 H1**, firms received **1.86 million** complaints.  
 - In **2024 H2**, firms received **1.78 million** complaints.  
-- In **2025 H1**, complaints reached **1.85 million**, up **3.6 percent** on 2024 H2.
+- In **2025 H1**, complaints reached **1.85 million**, up **3.6%** on 2024 H2.
 
-Since 2021, total complaints have remained between **1.7 and 2.0 million** every half year. Complaint volumes are no longer a short spike. They represent a structural workload that large firms must manage each day.
+Since 2021, total complaints have remained between **1.7 and 2.0 million** every half year. Complaint volumes are no longer a short spike. They represent a **structural workload** that large firms must manage each day.
 
 ## 2. Regulatory Expectations and Risk
 
