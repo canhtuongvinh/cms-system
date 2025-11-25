@@ -36,14 +36,14 @@ Firms that fail to handle complaints at volume, meet regulatory timeframes, and 
 - Loss of customer trust and reputational damage
 
 Sources: 
-[The UK FCA - Annual complaints data and insight 2024/25](https://www.financial-ombudsman.org.uk/data-insight/our-insight/annual-complaints-data-insight-2024-25)
+[The UK Financial Conduct Authority (FCA) - Annual complaints data and insight 2024/25](https://www.financial-ombudsman.org.uk/data-insight/our-insight/annual-complaints-data-insight-2024-25)
 
 [Financial Ombudsman Service (FOS) receives over 305,000 complaints in 2024/25](https://www.financial-ombudsman.org.uk/news/financial-ombudsman-service-receives-305000-complaints-2024-25)
 
-[Aggregate complaints data: 2025 H1](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2025-h1)
+[UK FCA: Aggregate complaints data: 2025 H1](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2025-h1)
 
-[Aggregate complaints data: 2025 H2](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2024-h2)
+[UK FCA: Aggregate complaints data: 2025 H2](https://www.fca.org.uk/data/complaints-data/aggregate-complaints-data-2024-h2)
 
-[Consumer Duty sets higher standards for financial services customers](https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services)
+[UK FCA: Consumer Duty sets higher standards for financial services customers](https://www.fca.org.uk/news/news-stories/consumer-duty-higher-standards-financial-services)
 
-[Complaints and root cause analysis: good practice and areas for improvement](https://www.fca.org.uk/publications/good-and-poor-practice/complaints-and-root-cause-analysis-good-practice-and-areas-improvement)
+[UK FCA: Complaints and root cause analysis: good practice and areas for improvement](https://www.fca.org.uk/publications/good-and-poor-practice/complaints-and-root-cause-analysis-good-practice-and-areas-improvement)
