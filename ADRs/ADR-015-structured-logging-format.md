@@ -15,7 +15,7 @@ Adopt a structured JSON log format with the following fields:
 - latency_ms
 - error_code if present
 
-All services write logs in this format. All logs follow UTC time.
+All services write logs in this format. All logs follow UTC time for consistency as future clients are global.
 
 ## Consequences
 
