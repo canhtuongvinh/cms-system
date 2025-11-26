@@ -7,7 +7,7 @@ UK financial firms face high and persistent levels of customer complaints.
 - The Financial Ombudsman Service (FOS) received **305,726 new complaints in 2024/25**, a **54 percent increase** on the previous year and the highest level for six years.  
 - Complaints about hire purchase motor products rose from **21,441 in 2023/24** to **76,160 in 2024/25**. Complaints about credit cards increased from **24,402** to **60,364** over the same period.
 
-At firm level, FCA aggregate data shows a large and steady flow of complaints.
+At firm level, FCA aggregated data shows a large and steady flow of complaints.
 
 - In **2024 H1**, firms received **1.86 million** complaints.  
 - In **2024 H2**, firms received **1.78 million** complaints.  
